@@ -38,12 +38,6 @@ GroceryGo is an iOS application that allows users to browse groceries, add them 
 - Cart items
 - Order history
 
-## Technology Stack
-
-- **SwiftUI** - Modern declarative UI framework
-- **SwiftData** - Apple's new data persistence framework
-- **iOS 17+** - Latest iOS features and APIs
-- **Swift 5.9+** - Latest Swift language features
 
 ## Project Structure
 
@@ -66,34 +60,7 @@ GroceryGo/
 └── GroceryGo.xcodeproj/            # Xcode project file
 ```
 
-## Getting Started
 
-### Requirements
-
-- Xcode 15.0 or later
-- iOS 17.0 or later
-- macOS Ventura or later
-
-### Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/Lilyabi07/GroceryGo.git
-cd GroceryGo
-```
-
-2. Open the project in Xcode:
-```bash
-open GroceryGo.xcodeproj
-```
-
-3. Select your target device or simulator
-
-4. Press `Cmd + R` to build and run
-
-### First Launch
-
-On first launch, the app will have an empty grocery list. Use the "Add Sample Groceries" button on the Browse tab to populate the app with sample items for testing.
 
 ## Usage
 
@@ -150,14 +117,4 @@ On first launch, the app will have an empty grocery list. Use the "Add Sample Gr
 - `deliveryAddress`: Delivery address
 - `items`: Array of order items
 
-## Contributing
 
-This is a student project. Contributions and suggestions are welcome!
-
-## License
-
-This project is created for educational purposes as part of Fall 2025 iOS programming course.
-
-## Author
-
-Created with ❤️ using Swift and SwiftUI
